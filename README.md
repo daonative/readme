@@ -1,4 +1,4 @@
-# prologe.press
+![prologe.press](https://github.com/prologe-press/readme/raw/main/banner.png)
 
 ## About the project
 
